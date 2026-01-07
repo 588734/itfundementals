@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#e9f5ff"/>
+  <circle cx="660" cy="110" r="50" fill="#ffcc66"/>
+  <polygon points="90,390 260,170 430,390" fill="#4f6d7a"/>
+  <polygon points="310,390 480,210 670,390" fill="#3a5561"/>
+  <rect x="0" y="360" width="800" height="140" fill="#7cc576"/>
+  <rect x="0" y="410" width="800" height="90" fill="#5aa85a"/>
+  <text x="30" y="465" font-family="Arial, Helvetica, sans-serif" font-size="28" fill="#1f3a1f">I like taking nature photos.</text>
+</svg>
